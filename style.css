@@ -1,0 +1,58 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{ background-color: #586553;}
+
+h1{
+  border: 2px solid #bcc2a8;
+  border-radius: 1px;
+  width: 410px; 
+  color: #bcc2a8;
+  text-align: center;
+  background-color: #4c5648;
+
+font-family: "Copperplate", "Copperplate", fantasy;
+}
+
+h2{
+color: #bcc2a8;
+font-family: "Copperplate", "Copperplate", fantasy;
+border: 2px solid #d3dabe;
+border-radius: 1px;
+width: 500px; 
+text-align: center;
+border-style: outset;
+background-color: #4c5648;
+  }
+
+.menu{
+display: flex;
+justify-content: space-around;}
+
+p{ text-align: center; }
+
+
+p{ color: #bcc2a8;
+  background-color: #4c5648;
+
+   font-family: "Copperplate", "Copperplate", fantasy;
+ }
+  
+
+
+/*.image{display: flex;
+justify-content: space-around; }*/
+
+.Heading{ 
+display: flex;
+justify-content: space-around;}
+
+
+
+.image{ width: 150px;}
+
+.pictures { display: flex;
+        justify-content: space-evenly;
+      }
